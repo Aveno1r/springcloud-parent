@@ -1,0 +1,5 @@
+# Project exclude paths
+/itheima-eurekaserver/target/
+/itheima-order/target/
+/itheima-pojo/target/
+/itheima-user/target/

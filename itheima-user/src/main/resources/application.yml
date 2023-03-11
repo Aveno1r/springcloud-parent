@@ -1,0 +1,10 @@
+server:
+  port: 28081
+spring:
+  application:
+    name: itheima-user
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://42.194.197.249:3306/cloud_user?characterEncoding=UTF8&&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
